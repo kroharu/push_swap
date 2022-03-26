@@ -30,6 +30,6 @@ rrb (reverse rotate b): перекинуть последний элемент �
 
 rrr : rra и rrb одновременно.
 
-#Запуск: make && ./push_swap 3 2 6 5 1
+# Запуск: make && ./push_swap 3 2 6 5 1
 
-#Запуск тестера: make && make bonus $$ ./push_swap 3 2 6 5 1 | ./checker 3 2 6 5 1
+# Запуск тестера: make && make bonus $$ ./push_swap 3 2 6 5 1 | ./checker 3 2 6 5 1
